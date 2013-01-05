@@ -1,9 +1,9 @@
-# sandboxed-module
-
-[![Build Status](https://secure.travis-ci.org/felixge/node-sandboxed-module.png)](http://travis-ci.org/felixge/node-sandboxed-module)
+# sandboxed-module-strict-mode
 
 A sandboxed node.js module loader that lets you inject dependencies into your
 modules.
+
+**@tristanls 's Note:** This version contains a dirty hack to make it work in strict mode. It works for me, you shouldn't use it, but should help fix the original project.
 
 ## Installation
 
