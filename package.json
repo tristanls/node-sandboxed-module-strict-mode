@@ -1,12 +1,12 @@
 {
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
-  "name": "sandboxed-module",
-  "description": "A sandboxed node.js module loader that lets you inject dependencies into your modules.",
+  "name": "sandboxed-module-strict-mode",
+  "description": "A sandboxed node.js module loader that lets you inject dependencies into your modules. (unaproved hack to work with \"use strict\";)",
   "version": "0.1.4",
   "homepage": "https://github.com/felixge/node-sandboxed-module",
   "repository": {
     "type": "git",
-    "url": "git://github.com/felixge/node-sandboxed-module.git"
+    "url": "git://github.com/tristanls/node-sandboxed-module-strict-mode.git"
   },
   "main": "./lib/sandboxed_module",
   "scripts": {
